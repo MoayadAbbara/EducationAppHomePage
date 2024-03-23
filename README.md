@@ -4,5 +4,5 @@ This repository contains a simple Flutter page developed to practice UI skills f
 
 ## Screenshots
 
-![Education App Home Page](blob/main/assets/images/FinalResult.jpeg)
+![Education App Home Page](assets/images/FinalResult.jpeg)
 
